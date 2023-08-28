@@ -1,0 +1,2 @@
+- Ở dây chứa các function chịu trách nghiệm render UI
+- Nhận dữ liệu raw xử lý logic render các thành phần UI (em hay sử dụng hàm _insertAdjacentHTML()_ )

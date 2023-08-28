@@ -1,0 +1,3 @@
+- Mỗi page sẽ có một file js chính
+- Mỗi file js tương ứng với 1 page được import từ thẻ script
+- Ở đây chủ yếu tạo các event listener
