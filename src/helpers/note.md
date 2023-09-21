@@ -1,1 +1,1 @@
-- Ở đây thì để các function xử lý logic hỗ trợ nói chung
+- Ở đây thì để các function xử lý logic hỗ trợ
